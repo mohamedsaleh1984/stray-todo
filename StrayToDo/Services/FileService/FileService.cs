@@ -91,6 +91,5 @@ namespace StrayToDo.Services.FileService
             }
             return filesToReturn;
         }
-        //files = filterFiles(files, ext);
     }
 }
